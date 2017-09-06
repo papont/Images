@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#container {
+    height: 100%;
+    width:100%;
+    font-size:0;
+}
+
+canvas {
+    height: 480px;
+    width: 320px;
+}
+
+#canvas1, #canvas2, #canvas3, #_canvas1, #_canvas2, #_canvas3 {
+    /*display: inline-block;*/
+    /**display: inline;*/
+    /*zoom: 1;*/
+    /*vertical-align: top;*/
+    /*font-size: 12px;*/
+}
+
+/*#canvas1 {*/
+    /*width: 33%;*/
+    /*background: blue;*/
+/*}*/
+
+/*#canvas2 {*/
+    /*width: 33%;*/
+    /*background: green;*/
+/*}*/
+
+/*#canvas3 {*/
+    /*width: 33%;*/
+    /*background: yellow;*/
+/*}*/
